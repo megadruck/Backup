@@ -1,0 +1,11 @@
+# phpStorm
+.idea/
+
+# Composer vendor Directory
+vendor/
+
+# Ignore Local Configuration
+.env.local
+.env.local.backup
+/config/*.php
+/config/*.json
